@@ -1,0 +1,5 @@
+{
+  "name": "MND Hub AI Assistant",
+  "description": "An all-in-one AI assistant for MND Hub featuring chat, image generation, video generation, live audio, and more.",
+  "requestFramePermissions": ["microphone"]
+}
